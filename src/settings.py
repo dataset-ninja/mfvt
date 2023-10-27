@@ -21,7 +21,7 @@ HIDE_DATASET = False  # set False when 100% sure about repo quality
 # * After uploading to instance ##
 ##################################
 LICENSE: License = License.Unknown()
-APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Safety(),Industry.Surveillance()]
+APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Surveillance()]
 CATEGORY: Category = Category.Surveillance(extra=Category.Safety())
 
 CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]

@@ -1,4 +1,4 @@
-**MFVT Dataset for Real-time Masked Facial Detection** is a dataset for an object detection task. It is used in the safety and surveillance industries. 
+**MFVT Dataset for Real-time Masked Facial Detection** is a dataset for an object detection task. It is used in the surveillance industry. 
 
 The dataset consists of 13507 images with 26201 labeled objects belonging to 3 different classes including *ok*, *none*, and *wrong*.
 
